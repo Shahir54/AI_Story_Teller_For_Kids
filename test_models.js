@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyD52F8Qf2E50e9u7SIVt7Vx2cQ1U-DumME";
+const API_KEY = "Your api key here";
 
 async function testApi() {
   const url = `https://generativelanguage.googleapis.com/v1beta/models?key=${API_KEY}`;
